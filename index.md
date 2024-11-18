@@ -14,4 +14,4 @@ A potential investigation I would like to pursue for my Quarter 2 Project is how
 A potential change I'd make to the approach taken in my Quarter 1 project is to focus more on practicality, instead of mainly focusing on the theoretics of the problem. It would be more useful to put the ideas into practice while we learn about them.
 
 **What other techniques would you be interested in using in your project?**  
-A technique I would be interested in using is Bayesian Principal Component Analysis
+A technique I would be interested in using is Bayesian Principal Component Analysis. I believe that this would allow me to account for more uncertainty in the datasets that I work on.
